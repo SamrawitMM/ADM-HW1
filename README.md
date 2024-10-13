@@ -32,11 +32,11 @@ This repository contains solutions for various problems from the **HackerRank Pl
 
 ### 1. Birthday Cake Candles
 - **Description:** Find the number of tallest candles on a birthday cake.
-- **Solution:** Implemented to iterate through the list of candles, finding the maximum height and counting how many candles have that height.
+- **Solution:** The function `birthdayCakeCandles` sorts the array of candles, finds the tallest one, and counts its occurrences.
 
 ### 2. Number Line Jumps
 - **Description:** Determine if two kangaroos starting at different positions and jumping different distances will land at the same location after the same number of jumps.
-- **Solution:** Implemented using mathematical conditions to check if the kangaroos meet at any point.
+- **Solution:** The kangaroo function simulates each jump and checks if the two kangaroos land on the same position.
 
 ### 3. Viral Advertising
 - **Description:** Track the number of people who liked an advertisement over a period of days, where the number of shares triples each day.
@@ -44,15 +44,15 @@ This repository contains solutions for various problems from the **HackerRank Pl
 
 ### 4. Recursive Digit Sum
 - **Description:** Calculate the super digit of a number, where the super digit is found by recursively summing the digits until a single digit is obtained.
-- **Solution:** Implemented using recursion and mathematical operations to break down the problem.
+- **Solution:** The superDigit function recursively reduces the digit sum until only one digit remains.
 
 ### 5. Insertion Sort - Part 1
 - **Description:** Perform the first step of insertion sort by moving an unsorted element to its correct position in a sorted sublist.
-- **Solution:** Implemented by shifting elements and inserting the target element in the correct position.
+- **Solution:** The insertionSort1 function sorts the list by moving elements into their correct position one by one.
 
 ### 6. Insertion Sort - Part 2
 - **Description:** Complete the entire insertion sort algorithm for sorting a list.
-- **Solution:** Implemented using the insertion sort technique, iterating over the list and placing elements in the correct sorted position.
+- **Solution:** The insertionSort2 function sorts an array by repeatedly shifting elements into their correct positions.
 
 ---
 
@@ -60,4 +60,4 @@ This repository contains solutions for various problems from the **HackerRank Pl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ADMHW1Problem1.git
+   git clone https://github.com/SamrawitMM/ADM-HW1.git
