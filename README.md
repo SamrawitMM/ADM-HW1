@@ -8,7 +8,7 @@ This repository contains solutions for various problems from the **HackerRank Pl
 - Basic introduction problems to get started with coding on HackerRank.
 
 ### 2. Basic Data Types
-- Solutions for problems dealing with Python's basic data types, including integers, floats, lists, tuples, and dictionaries.
+- Solutions for problems dealing with Python's basic data types.
 
 ### 3. Strings
 - Solutions for common string manipulation problems like slicing, concatenation, and formatting.
